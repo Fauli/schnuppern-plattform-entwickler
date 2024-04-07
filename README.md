@@ -1,6 +1,6 @@
 ![platform-engineer](platform-engineer.webp)
 
-# Schnuppern für Plattform-Entwickler
+# Schnuppern als Plattform-Entwickler
 
 Aufgaben fürs Schnuppern als Plattform Entwickler
 
