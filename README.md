@@ -1,3 +1,5 @@
+![platform-engineer](platform-engineer.webp)
+
 # Schnuppern für Plattform-Entwickler
 
 Aufaben fürs schnuppern als Plattform Entwickler
