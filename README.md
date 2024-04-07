@@ -54,6 +54,7 @@ Nun musst du immer mind. 3 Befehle ausführen.
 
 Gibt es eine Möglichkeit, dass du dies einfacher machen kannst?
 
+Lese mal über Scripte nach und versuche dein eigenes zu erstellen.
 
 # Fertig?
 
@@ -79,9 +80,7 @@ Niki steht vor einer Aufgabe: eine Treppe hinaufzusteigen, einen Ball aufzusamme
 
 * Optimierung: Solltest du feststellen, dass deine aktuelle Lösung nicht auf Veränderungen vorbereitet ist, überlege dir, wie du sie anpassen kannst. Das Ziel ist eine universelle Lösung, die unter verschiedenen Bedingungen fehlerfrei funktioniert.
 
-## Go programmierung
-
-### Die geheimnisvolle Zahl
+## Go programmierung: Die geheimnisvolle Zahl
 
 Willkommen zu deiner letzten Herausforderung während deines Schnuppertages als Plattform-Entwickler!
 
