@@ -23,13 +23,25 @@ Es gibt verschiedene WebServer. Finde den namen einiger heraus und schau ob du h
 
 Bevor du einen installierst sollten wir dies besprechen.
 
+### Was will ich auf meiner Seite haben?
+
+Erstelle eine Seite über ein spezifisches Thema das dich interessiert.
+
+Sammle ein paar Infos (Texte & Bilder zu einem Thema).
+
+Überlege dir wie deine Seite aussehen soll. 
+
+Was willst du für Infos drauf haben, etc?
+
+Die Seite soll Übersichtlich sein und verschhiedene Elemente haben.
+
 ### Wie erstelle ich nun eine Seite?
 
-Im Index.html kannst du Sachen hinzufügen. Erstelle doch eine Seite über ein spezifisches Thema das dich interessiert.
+Im index.html kannst du Sachen hinzufügen. Falls du noch kein solves File hast, erstelle es einfach :)
 
-Mit dem WebServer kannst du diese Seite dann verfügbar machen.
+Mit dem WebServer kannst du diese Seite dann verfügbar machen. Vielleicht musst du im Internet erst nachlesen wie das geht.
 
-Im index.html file musst du mit HTML arbeiten.
+Wichtig ist: Im index.html file musst du mit HTML arbeiten.
 
 Google ist hier dein Freund!
 
@@ -37,11 +49,15 @@ Google ist hier dein Freund!
 
 Was ist nun aber, wenn du von überall auf der Welt darauf zugreifen willst?
 
-GIT? Was ist denn das?
+Lese vielleicht mal darüber nach, was man da so tun müsste.
+
+Eine einfache Möäglichkeit ist via GIT, bzw. GitHub? Aber... Was ist denn das?
+
+Finde zuerst mal heraus was GitHub genau ist, bevor du weitermachst.
 
 Klone das GitHub repository welches du gerade anschaust (https://github.com/Fauli/schnuppern-plattform-entwickler).
 
-Füge deine index.html Seite dort ein und füre diese Befehle aus:
+Füge deine index.html Seite dort ein und füre diese Befehle aus (im Ordner des Repos):
 
 ```bash
 git add --all
@@ -51,15 +67,21 @@ git push origin main
 
 Weisst du was diese Befehle machen?
 
-Was passiert nun wenn du auf die URL gehst?
+Was passiert nun wenn du auf die URL unten gehst?
 
 https://fauli.github.io/schnuppern-plattform-entwickler/
 
 ### Verteilen einfacher machen
 
-Nun musst du immer 3 Befehle ausführen. Gibt es eine Möglichkeit, dass du dies einfacher machen kannst?
+Nun musst du immer mind. 3 Befehle ausführen.
+
+Gibt es eine Möglichkeit, dass du dies einfacher machen kannst?
 
 
 # Fertig?
 
 Wenn du Fertig bist, kannst du dich mal auf https://niki.net-schulbuch.de/ gehen
+
+Auch damit Fertig?
+
+Schau mal ob du mittels der Progammiersprache [Go](https://go.dev/) ein Zahlenratespiel progammieren kannst.
