@@ -9,7 +9,7 @@ Herzlich willkommen zu deinem Schnuppertag als Plattform-Entwickler! Heute tauch
 
 ### Was ist ein WebServer?
 
-Es gibt eine Vielfalt an WebServern – Apache, Nginx, und viele mehr. Deine Aufgabe ist es, einige davon zu erkunden. Finde heraus, wie diese auf einem Ubuntu-System installiert werden. Bevor du dich für einen entscheidest, besprechen wir deine Entdeckungen gemeinsam.
+Es gibt eine Vielfalt an WebServern – Apache, Nginx, und viele mehr. Deine Aufgabe ist es, einige davon zu erkunden. Finde heraus, was ein WebServer genau ist und warum man solche braucht. Bevor du dich definitiv für einen entscheidest, besprechen wir deine Entdeckungen gemeinsam.
 
 
 ### Wie installiere ich einen WebServer?
