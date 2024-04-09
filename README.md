@@ -29,7 +29,7 @@ Mit dem index.html-File als dein Fundament baust du deine Seite auf. Solltest du
 
 ### Seite verteilen (Via GitHub)
 
-Was ist nun aber, wenn du von überall auf der Welt darauf zugreifen willst?
+Deine Website läuft nun lokal. Was ist nun aber, wenn du von überall auf der Welt darauf zugreifen willst?
 
 Lese vielleicht mal darüber nach, was man da so tun müsste.
 
