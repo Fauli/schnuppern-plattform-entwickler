@@ -26,6 +26,13 @@ Eine Idee wäre auch, dass du dich über Linux informierst und eine Seite über 
 
 Mit dem index.html-File als dein Fundament baust du deine Seite auf. Solltest du noch kein solches File haben, zögere nicht, eines zu erstellen. Dein WebServer wird die Brücke sein, die deine Seite mit der Welt verbindet. Die Kunst des HTML wird hierbei dein Werkzeug sein – das Internet bietet dir unzählige Ressourcen, um diese Sprache zu meistern.
 
+### Wie komme ich lokal auf meine Webseite?
+
+Sobald dein Webserver (wie Apache, Nginx oder ein anderer) auf deinem Computer läuft, hört er auf Anfragen, die an "localhost" gesendet werden.
+
+Zugriff über den Browser: Gib "http://localhost" in die Adressleiste deines Browsers ein. Wenn dein Webserver korrekt konfiguriert ist und läuft, wird deine Webseite angezeigt, als ob sie online wäre, obwohl sie tatsächlich nur auf deinem Computer existiert.
+
+Etwas bezüglich Sicherheit und Privatsphäre: Da "localhost" auf deinem lokalen Gerät gehostet wird, können andere Personen im Internet nicht auf deine Webseite zugreifen, es sei denn, du entscheidest dich, sie auf einem öffentlichen Server zu veröffentlichen. Dies bietet eine sichere Umgebung für Entwicklung und Tests.
 
 ### Seite verteilen (Via GitHub)
 
