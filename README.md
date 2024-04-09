@@ -20,6 +20,7 @@ Da wir ein Linux system haben, ist die Installation von Software etwas anders al
 
 Wähle ein Thema, das dich begeistert. Sammle Informationen, Texte und Bilder, die du präsentieren möchtest. Skizziere, wie du dir deine Webseite vorstellst – welche Informationen sind dir wichtig, und wie soll deine Seite strukturiert sein? Deine Webseite soll nicht nur informativ, sondern auch ein visuelles Erlebnis sein.
 
+Eine Idee wäre auch, dass du dich über Linux informierst und eine Seite über wichtige Befehle machst. Diese kannst du dann gleich auch verwenden wenn du den WebServer installierst. Falls du sie Seite über ein eigenes Thema machst, solltest du die wichtigsten Linux Befehle trotzdem kennen.
 
 ### Wie erstelle ich nun eine Seite?
 
@@ -50,9 +51,7 @@ https://fauli.github.io/schnuppern-plattform-entwickler/
 
 ### Verteilen einfacher machen
 
-Nun musst du immer mind. 3 Befehle ausführen.
-
-Gibt es eine Möglichkeit, dass du dies einfacher machen kannst?
+Gibt es einen Weg, diesen Prozess zu vereinfachen? Die Antwort liegt in der Automatisierung. Skripte spielen eine zentrale Rolle in der Automatisierung wiederholender Aufgaben und können dir wertvolle Zeit sparen.
 
 Lese mal über Scripte nach und versuche dein eigenes zu erstellen.
 
