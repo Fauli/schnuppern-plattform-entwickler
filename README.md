@@ -53,7 +53,7 @@ https://fauli.github.io/schnuppern-plattform-entwickler/
 
 Gibt es einen Weg, diesen Prozess zu vereinfachen? Die Antwort liegt in der Automatisierung. Skripte spielen eine zentrale Rolle in der Automatisierung wiederholender Aufgaben und können dir wertvolle Zeit sparen.
 
-Lese mal über Scripte nach und versuche dein eigenes zu erstellen.
+Lese mal über Scripte nach und versuche mit den 3 Befehlen oben dein eigenes zu erstellen.
 
 # Fertig?
 
